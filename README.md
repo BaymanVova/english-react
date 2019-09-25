@@ -1,1 +1,1 @@
-Просто приложение на Reactjs + TypeScript.
+Простое приложение на Reactjs + TypeScript.
