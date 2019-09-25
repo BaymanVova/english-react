@@ -1,0 +1,18 @@
+div.right{
+    float:right;
+    cursor: pointer;
+}
+
+div.left{
+    float:left;
+    cursor: pointer;
+}
+
+div.now{
+    background-color: #007DFF;
+    color: white;
+    margin:0 auto !important;
+    display:inline-block;
+    border-radius: 15px;
+    padding: 5px 15px;
+}

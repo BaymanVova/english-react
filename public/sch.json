@@ -1,0 +1,1882 @@
+[
+  {
+    "date": "2018-02-22",
+    "lessons": [
+      {
+        "name": "Введение в языкознание",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Беляева",
+          "first_name": "Ж.",
+          "patronymic_name": "Д.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 110,
+        "subgroup": null,
+        "task": []
+      }
+    ]
+  },
+  {
+    "date": "2018-02-27",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 1, 9 упражнение: 1, 2, 5",
+            "files": []
+          },
+          {
+            "text": "Блог 104 страница - устно рассказать",
+            "files": []
+          },
+          {
+            "text": "Unit 2 распечатать",
+            "files": [
+              {
+                "name": "New Headway Elementary Student's book",
+                "path": "/media/091_1-_New_Headway._Elementary._Students_book._4th_Ed_2011_-160p.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 2 - доделать",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-03-01",
+    "lessons": [
+      {
+        "name": "Введение в языкознание",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Беляева",
+          "first_name": "Ж.",
+          "patronymic_name": "Д.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 110,
+        "subgroup": null,
+        "task": []
+      }
+    ]
+  },
+  {
+    "date": "2018-03-06",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Глоссарий - выучить, запомнить правильное написание и правильное произношение, проверить транскрипцию, будем сдавать устно",
+            "files": [
+              {
+                "name": "Глоссарий",
+                "path": "/media/wordlist_1.docx"
+              }
+            ]
+          },
+          {
+            "text": "Кто не рассказал блог - будут спрашивать",
+            "files": []
+          },
+          {
+            "text": "Распечатать Unit 2, кто не распечатал",
+            "files": [
+              {
+                "name": "New Headway Elementary Student's book",
+                "path": "/media/091_1-_New_Headway._Elementary._Students_book._4th_Ed_2011_-160p.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Задать по 5 вопросов к тексту на странице 13",
+            "files": []
+          },
+          {
+            "text": "Страница 14, 8 упражнение выражения с глаголами - составить по предложению, желательно использовать третье лицо",
+            "files": []
+          },
+          {
+            "text": "Unit 3 - распечатать",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-03-12",
+    "lessons": [
+      {
+        "name": "Практическая фонетика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Выучить terms",
+            "files": []
+          },
+          {
+            "text": "Знать правило I типа слога",
+            "files": []
+          },
+          {
+            "text": "Сделать упражнения 1-5",
+            "files": []
+          },
+          {
+            "text": "Выучить слова из упражнений 1-5",
+            "files": []
+          },
+          {
+            "text": "Упражнение 5 – читать, перевести, пересказать, найти слова I типа",
+            "files": [
+              {
+                "name": "Practical phonetics",
+                "path": "/media/PRACTICAL_PHONETICS.docx"
+              }
+            ]
+          },
+          {
+            "text": "Выучить алфавит из таблицы",
+            "files": [
+              {
+                "name": "Английский алфавит",
+                "path": "/media/scan_01.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Лингвистический анализ текста",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Взять part 2",
+            "files": []
+          },
+          {
+            "text": "Сделать part 1, части A и \"About the author\" из части B",
+            "files": [
+              {
+                "name": "Лингвистический анализ текста. Часть 1",
+                "path": "/media/%D0%9B%D0%90%D0%A2_%D0%9F%D0%9E%D0%A1%D0%9E%D0%91%D0%98%D0%95.docx"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-03-13",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 2, стр. 18, упр. 1 (читаем, подчеркиваем), 2 (читаем 1 параграф, отвечаем на вопросы), 3 (задаем 3 вопроса),  4 (исправить предложение)",
+            "files": []
+          },
+          {
+            "text": "страница 135 - распечатать",
+            "files": [
+              {
+                "name": "New Headway Elementary Student's book",
+                "path": "/media/091_1-_New_Headway._Elementary._Students_book._4th_Ed_2011_-160p.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 3, упраженения 3-12. В упр. 7 по аналоги с Мирандой описать свой идеальный (или обычный) день.",
+            "files": []
+          },
+          {
+            "text": "Unit 4 — распечатать",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-03-15",
+    "lessons": [
+      {
+        "name": "Введение в языкознание",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Беляева",
+          "first_name": "Ж.",
+          "patronymic_name": "Д.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 110,
+        "subgroup": null,
+        "task": []
+      }
+    ]
+  },
+  {
+    "date": "2018-03-19",
+    "lessons": [
+      {
+        "name": "Практическая фонетика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Выучить транскрипцию алфавита. Будет диктант. Выучить таблицу транскрипций.",
+            "files": [
+              {
+                "name": "Английский алфавит",
+                "path": "/media/scan_01.jpg"
+              }
+            ]
+          },
+          {
+            "text": "Выучить terms - будет диктант.",
+            "files": []
+          },
+          {
+            "text": "2 тип слога, упражнения 6-11",
+            "files": [
+              {
+                "name": "Practical phonetics",
+                "path": "/media/PRACTICAL_PHONETICS.docx"
+              }
+            ]
+          },
+          {
+            "text": "Выучить все слова из упражнений.",
+            "files": []
+          }
+        ]
+      },
+      {
+        "name": "Лингвистический анализ текста",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Страница 19, текст The blanket - читать, перевести, пересказать.",
+            "files": [
+              {
+                "name": "Лингвистический анализ текста. Часть 1",
+                "path": "/media/%D0%9B%D0%90%D0%A2_%D0%9F%D0%9E%D0%A1%D0%9E%D0%91%D0%98%D0%95.docx"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-03-20",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Стр. 21, упражнение 1",
+            "files": []
+          },
+          {
+            "text": "Unit 3 распечатать",
+            "files": [
+              {
+                "name": "New Headway Elementary Student's book",
+                "path": "/media/091_1-_New_Headway._Elementary._Students_book._4th_Ed_2011_-160p.pdf"
+              }
+            ]
+          },
+          {
+            "text": "Выучить высланные слова",
+            "files": [
+              {
+                "name": "Wordlist 2",
+                "path": "/media/wordlist_2.docx"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Выполнить все задания из unit 4",
+            "files": []
+          },
+          {
+            "text": "Unit 5 распечатать",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-03-22",
+    "lessons": [
+      {
+        "name": "Введение в языкознание",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Беляева",
+          "first_name": "Ж.",
+          "patronymic_name": "Д.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 110,
+        "subgroup": null,
+        "task": []
+      }
+    ]
+  },
+  {
+    "date": "2018-03-26",
+    "lessons": [
+      {
+        "name": "Практическая фонетика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Будет диктант по 2 типу - выучить правило",
+            "files": []
+          },
+          {
+            "text": "Выполнить все упражнения по 3 типу (упр. 12-15), неизвестные слова - выучить",
+            "files": []
+          },
+          {
+            "text": "Упражнение 14 - пересказ",
+            "files": []
+          },
+          {
+            "text": "Распечатать 4 тип",
+            "files": [
+              {
+                "name": "Practical phonetics",
+                "path": "/media/PRACTICAL_PHONETICS.docx"
+              }
+            ]
+          },
+          {
+            "text": "Будет диктант по знакам транскрипции - выучить их",
+            "files": [
+              {
+                "name": "Английский алфавит",
+                "path": "/media/scan_01.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Лингвистический анализ текста",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Чтение, перевод текста the blanket до конца. Будем пересказывать.",
+            "files": []
+          },
+          {
+            "text": "стр. 22, часть C - упражнения 1, 2, 3",
+            "files": [
+              {
+                "name": "Лингвистический анализ текста. Часть 1",
+                "path": "/media/%D0%9B%D0%90%D0%A2_%D0%9F%D0%9E%D0%A1%D0%9E%D0%91%D0%98%D0%95.docx"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-03-27",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Рассказ о своём хобби, либо чем занимаешься в выходные",
+            "files": []
+          },
+          {
+            "text": "Страница 25, упражнение 5",
+            "files": []
+          },
+          {
+            "text": "Страница 26, упражнение 1, 2, 3, 4. Упражнение 3 - согласно своей группы.",
+            "files": [
+              {
+                "name": "New Headway Elementary Student's book",
+                "path": "/media/091_1-_New_Headway._Elementary._Students_book._4th_Ed_2011_-160p.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 5, упражнение 3",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          },
+          {
+            "text": "Составить предложения: 5 действий, которые мы можем делать и 5 которые не можем.",
+            "files": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-03-29",
+    "lessons": [
+      {
+        "name": "Введение в языкознание",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Беляева",
+          "first_name": "Ж.",
+          "patronymic_name": "Д.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 110,
+        "subgroup": null,
+        "task": []
+      }
+    ]
+  },
+  {
+    "date": "2018-04-02",
+    "lessons": [
+      {
+        "name": "Практическая фонетика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Выучить теорию по всем типам слогов, будет самостоятельная",
+            "files": []
+          },
+          {
+            "text": "Выучить 4 тип слога",
+            "files": []
+          },
+          {
+            "text": "Выучить знаки транскрипции",
+            "files": []
+          },
+          {
+            "text": "Сделать по 19 упражнение",
+            "files": []
+          }
+        ]
+      },
+      {
+        "name": "Лингвистический анализ текста",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Пересказ Blanket",
+            "files": []
+          },
+          {
+            "text": "страница 25, задание 4",
+            "files": []
+          },
+          {
+            "text": "3 задание — 3 слова из текста, составить по 3 предложения",
+            "files": []
+          },
+          {
+            "text": "D - упр. 1, 2, 4 (2, 3 - на выбор 1 доклад, 4, 5)",
+            "files": [
+              {
+                "name": "Лингвистический анализ текста. Часть 1",
+                "path": "/media/%D0%9B%D0%90%D0%A2_%D0%9F%D0%9E%D0%A1%D0%9E%D0%91%D0%98%D0%95.docx"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-04-03",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Выучить глоссарий",
+            "files": [
+              {
+                "name": "Wordlist 3",
+                "path": "/media/wordlist_3.docx"
+              }
+            ]
+          },
+          {
+            "text": "Unit 4 — распечатать",
+            "files": []
+          },
+          {
+            "text": "Unit 3 — стр. 29, упр. 1, 2, 3",
+            "files": [
+              {
+                "name": "New Headway Elementary Student's book",
+                "path": "/media/091_1-_New_Headway._Elementary._Students_book._4th_Ed_2011_-160p.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 5: стр 30 - упр. 6, стр. 32 - упр. 9, стр. 34 - упр. 11, 12, 13, 14",
+            "files": []
+          },
+          {
+            "text": "Распечатать Unit 6 и таблицу неправильных глаголов из appendix",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-04-05",
+    "lessons": [
+      {
+        "name": "Введение в языкознание",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Беляева",
+          "first_name": "Ж.",
+          "patronymic_name": "Д.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 110,
+        "subgroup": null,
+        "task": []
+      }
+    ]
+  },
+  {
+    "date": "2018-04-10",
+    "lessons": [
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 6 - упражнение 1, 2, 3",
+            "files": []
+          },
+          {
+            "text": "Выучить формы неправильных глаголов из упражнения 3.1",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-04-11",
+    "lessons": [
+      {
+        "name": "Практическая фонетика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Упражнение 20-24",
+            "files": [
+              {
+                "name": "Practical phonetics",
+                "path": "/media/PRACTICAL_PHONETICS.docx"
+              }
+            ]
+          },
+          {
+            "text": "Выучить все новые слова из всех упражнений",
+            "files": []
+          },
+          {
+            "text": "Пересказ текста из последнего задания",
+            "files": []
+          }
+        ]
+      },
+      {
+        "name": "Лингвистический анализ текста",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Стр. 27 part A - сделать",
+            "files": [
+              {
+                "name": "Лингвистический анализ текста. Часть 1",
+                "path": "/media/%D0%9B%D0%90%D0%A2_%D0%9F%D0%9E%D0%A1%D0%9E%D0%91%D0%98%D0%95.docx"
+              }
+            ]
+          },
+          {
+            "text": "Доклад из упражнения 4 с прошлой недели",
+            "files": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-04-12",
+    "lessons": [
+      {
+        "name": "Введение в языкознание",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Беляева",
+          "first_name": "Ж.",
+          "patronymic_name": "Д.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 110,
+        "subgroup": null,
+        "task": []
+      }
+    ]
+  },
+  {
+    "date": "2018-04-17",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Стр. 34,  упражнение 1-5",
+            "files": [
+              {
+                "name": "New Headway Elementary Student's book",
+                "path": "/media/091_1-_New_Headway._Elementary._Students_book._4th_Ed_2011_-160p.pdf"
+              }
+            ]
+          },
+          {
+            "text": "Доклад о местном знаменитом здании на 100 слов.",
+            "files": []
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 6, страница 38, 40 - все упражнения",
+            "files": []
+          },
+          {
+            "text": "Unit 7 распечатать",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-04-19",
+    "lessons": [
+      {
+        "name": "Введение в языкознание",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Беляева",
+          "first_name": "Ж.",
+          "patronymic_name": "Д.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 110,
+        "subgroup": null,
+        "task": []
+      }
+    ]
+  },
+  {
+    "date": "2018-04-24",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Подготовиться к модулю по пройденным 4-м юнитам (плюс по грамматическим юнитам).  Будет задание на перевод → повторить глоссарий. Пример задания: написать прописью числительные.",
+            "files": []
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Все задания из Unit 7.",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              },
+              {
+                "name": "WB elen U7E7P1,2.mp3",
+                "path": "/media/Track_32.mp3"
+              },
+              {
+                "name": "WB Elem U7E8.mp3",
+                "path": "/media/Track_33.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-04-26",
+    "lessons": [
+      {
+        "name": "Лингвистические основы теории перевода",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Ломаковская",
+          "first_name": "А.",
+          "patronymic_name": "В.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": []
+      }
+    ]
+  },
+  {
+    "date": "2018-05-03",
+    "lessons": [
+      {
+        "name": "Лингвистические основы теории перевода",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Ломаковская",
+          "first_name": "А.",
+          "patronymic_name": "В.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Теория: стр. 63-88",
+            "files": []
+          },
+          {
+            "text": "Практика: упр. 4 (стр. 81); упр 6 (стр. 98); упр. 8 (стр. 100).",
+            "files": [
+              {
+                "name": "Практические основы перевода",
+                "path": "/media/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0_%D0%A2.%D0%90._%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0_English__Russian_2001.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-07",
+    "lessons": [
+      {
+        "name": "Практическая фонетика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Таблица 2 — reading of vowel combinations → запомнить первые 2 колонки — будет самостоятельная",
+            "files": []
+          },
+          {
+            "text": "Упражнение 25-28",
+            "files": []
+          },
+          {
+            "text": "Кто не ответил — выучить все новые слова с 1 по 10 страницу — будут спрашивать",
+            "files": [
+              {
+                "name": "Practical phonetics",
+                "path": "/media/PRACTICAL_PHONETICS.docx"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Лингвистический анализ текста",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Выучить все слова по blanket",
+            "files": []
+          },
+          {
+            "text": "стр. 30 вся часть B — чтение, перевод, пересказ",
+            "files": [
+              {
+                "name": "Лингвистический анализ текста. Часть 1",
+                "path": "/media/%D0%9B%D0%90%D0%A2_%D0%9F%D0%9E%D0%A1%D0%9E%D0%91%D0%98%D0%95.docx"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-08",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Распечатать unit 1",
+            "files": []
+          },
+          {
+            "text": "Unit 1 стр 10-11 упр. 1,2,3,7,8.\r\nУпражнение 3 по распределенным группам.",
+            "files": [
+              {
+                "name": "Headway Pre-intermediate Students Book",
+                "path": "/media/soars_john_soars_liz_new_headway_preintermediate_4th_edition.pdf"
+              },
+              {
+                "name": "SB T1.11.mp3",
+                "path": "/media/Unit_01_T_1.11.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 8 — все задания",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-10",
+    "lessons": [
+      {
+        "name": "Лингвистические основы теории перевода",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Ломаковская",
+          "first_name": "А.",
+          "patronymic_name": "В.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Теория: стр. 103-113. Обратите внимание: сужение = конкретизация, расширение = генерализация.",
+            "files": []
+          },
+          {
+            "text": "Практика: стр. 114 упр. 1, стр. 118 упр. 5, стр. 121 упр. 8",
+            "files": [
+              {
+                "name": "Практические основы перевода",
+                "path": "/media/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0_%D0%A2.%D0%90._%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0_English__Russian_2001.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-14",
+    "lessons": [
+      {
+        "name": "Практическая фонетика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Повторить типы слогов, сочетания.",
+            "files": []
+          },
+          {
+            "text": "упр. 29-31 (31 - чтение, перевод, пересказ).",
+            "files": []
+          },
+          {
+            "text": "Все, кто не отвечал слова - выучить слова по 31 упражнение.",
+            "files": [
+              {
+                "name": "Practical phonetics",
+                "path": "/media/PRACTICAL_PHONETICS.docx"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Лингвистический анализ текста",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Bracelet - чтение, перевод, пересказ.",
+            "files": []
+          },
+          {
+            "text": "Выучить слова blanket.",
+            "files": []
+          },
+          {
+            "text": "Bracelet - часть C сделать (если не успеем перейдет на след. занятие).",
+            "files": [
+              {
+                "name": "Лингвистический анализ текста. Часть 1",
+                "path": "/media/%D0%9B%D0%90%D0%A2_%D0%9F%D0%9E%D0%A1%D0%9E%D0%91%D0%98%D0%95.docx"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-15",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "стр.9  упр. 1 — составить доклад на 100-150 слов (этот текст будет на экзамене).",
+            "files": []
+          },
+          {
+            "text": "стр. 12, упр. 1, 2, 3, 5",
+            "files": []
+          },
+          {
+            "text": "Unit 2 — распечатать",
+            "files": [
+              {
+                "name": "Headway Pre-intermediate Students Book",
+                "path": "/media/soars_john_soars_liz_new_headway_preintermediate_4th_edition.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 9 — распечатать, выполнить все упражнения, кроме упражнения на 59 странице и на 60 странице — только 14 упражнение.",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-17",
+    "lessons": [
+      {
+        "name": "Лингвистические основы теории перевода",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Ломаковская",
+          "first_name": "А.",
+          "patronymic_name": "В.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "стр. 121, упр 8. Внимание! Предложить свои варианты перевода, отличающиеся от вариантов из интернета.",
+            "files": []
+          },
+          {
+            "text": "Теория: стр. 127—141",
+            "files": []
+          },
+          {
+            "text": "стр. 142 упр. 1, стр. 143 упр. 2, стр. 150 упр. 10",
+            "files": [
+              {
+                "name": "Практические основы перевода",
+                "path": "/media/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0_%D0%A2.%D0%90._%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0_English__Russian_2001.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-21",
+    "lessons": [
+      {
+        "name": "Лингвистический анализ текста",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Part C 1-5 часть\r\nPart D 1, 2, 4 (2 или 3 на выбор)",
+            "files": [
+              {
+                "name": "Лингвистический анализ текста. Часть 1",
+                "path": "/media/%D0%9B%D0%90%D0%A2_%D0%9F%D0%9E%D0%A1%D0%9E%D0%91%D0%98%D0%95.docx"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-22",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 2 распечатать стр. 16 - упражнение 2, 4, 5. Стр. 17 - упражнение 1, 3.",
+            "files": []
+          },
+          {
+            "text": "Составить несколько предложений о perfect day, можно использовать фразы из упражнения 1",
+            "files": []
+          },
+          {
+            "text": "Стр 18 - project",
+            "files": [
+              {
+                "name": "Headway Pre-intermediate Students Book",
+                "path": "/media/soars_john_soars_liz_new_headway_preintermediate_4th_edition.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Косташ",
+          "first_name": "Л.",
+          "patronymic_name": "Л.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 10 стр. 61-63 все упражнения. Стр. 64 - читать, стр. 65 упр. 9, стр. 67 - все задания.",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-23",
+    "lessons": [
+      {
+        "name": "Лингвистические основы теории перевода",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Ломаковская",
+          "first_name": "А.",
+          "patronymic_name": "В.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 309,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Стр.153-163 теория \r\nУпр. 1 стр 163\r\nУпр. 6 стр 168",
+            "files": [
+              {
+                "name": "Практические основы перевода",
+                "path": "/media/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0_%D0%A2.%D0%90._%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0_English__Russian_2001.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-29",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 1, 2 просмотреть - будет контрольная.\r\nРассказ своего project-а",
+            "files": [
+              {
+                "name": "Headway Pre-intermediate Students Book",
+                "path": "/media/soars_john_soars_liz_new_headway_preintermediate_4th_edition.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Unit 11 - все упражнения\r\nUnit 12 - распечатать",
+            "files": [
+              {
+                "name": "New Headway Elementary Workbook",
+                "path": "/media/178_2-_New_Headway_Elementary.Workbook_with_Key._4th_ed_2012_-96p.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-05-30",
+    "lessons": [
+      {
+        "name": "Дискурс",
+        "type": "lab",
+        "teacher": {
+          "last_name": "Саврацкая",
+          "first_name": "А.",
+          "patronymic_name": "С.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": []
+      }
+    ]
+  },
+  {
+    "date": "2018-06-05",
+    "lessons": [
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Почтарь",
+          "first_name": "Е.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 301,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Будет тест по грамматике. По его результатам будет выставлен зачет.",
+            "files": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-06-20",
+    "lessons": [
+      {
+        "name": "Лингвистические основы теории перевода",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Ломаковская",
+          "first_name": "А.",
+          "patronymic_name": "В.",
+          "photo": ""
+        },
+        "number": [
+          6,
+          7
+        ],
+        "room": 306,
+        "subgroup": null,
+        "task": [
+          {
+            "text": "Зачёт.",
+            "files": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2018-09-19",
+    "lessons": [
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Павленко",
+          "first_name": "А.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 311,
+        "subgroup": 1,
+        "task": []
+      },
+      {
+        "name": "Практическая грамматика английского языка",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Идетова",
+          "first_name": "А.",
+          "patronymic_name": "А.",
+          "photo": ""
+        },
+        "number": [
+          6
+        ],
+        "room": 111,
+        "subgroup": 2,
+        "task": []
+      },
+      {
+        "name": "Дискурс",
+        "type": "lecture",
+        "teacher": {
+          "last_name": "Павленко",
+          "first_name": "А.",
+          "patronymic_name": "И.",
+          "photo": ""
+        },
+        "number": [
+          7
+        ],
+        "room": 307,
+        "subgroup": 1,
+        "task": [
+          {
+            "files": [],
+            "text": "Досмотреть видео",
+            "audios": [],
+            "videos": [
+              {
+                "youtube_id": "SFnMTHhKdkw",
+                "name": "Every kid needs a champion | Rita Pierson",
+                "time": 178
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+Просто приложение на Reactjs + TypeScript.

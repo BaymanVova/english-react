@@ -1,0 +1,122 @@
+.File{
+
+}
+
+.File .type{
+    float: left;
+    text-transform: uppercase;
+}
+
+.File a[href$=pdf]:hover:after, .File a[href$=pdf]:focus:after {
+    background: #f83a30;
+}
+.File a[href$=pdf]:after {
+    content: "pdf";
+    float: right;
+    background: #fb807a;
+}
+
+.File a[href$=xlsx]:hover:after, .File a[href$=xlsx]:focus:after {
+    background: #28eb1e;
+}
+.File a[href$=xlsx]:after {
+    content: "xlsx";
+    float: right;
+    background: #6bf164;
+}
+
+.File a[href$=docx]:hover:after, .File a[href$=docx]:focus:after {
+    background: cornflowerblue;
+}
+.File a[href$=docx]:after {
+    content: "docx";
+    float: right;
+    background: #a9c4f5;
+}
+
+.File a[href$=eps]:hover:after, .File a[href$=eps]:focus:after {
+    background: #f0aa28;
+}
+.File a[href$=eps]:after {
+    content: "eps";
+    float: right;
+    background: #f5c670;
+}
+
+.File a[href$=aep]:hover:after, .File a[href$=aep]:focus:after {
+    background: #282832;
+}
+.File a[href$=aep]:after {
+    content: "aep";
+    float: right;
+    background: #4a4a5d;
+}
+
+.File a[href$=dwt]:hover:after, .File a[href$=dwt]:focus:after {
+    background: #82e628;
+}
+.File a[href$=dwt]:after {
+    content: "dwt";
+    float: right;
+    background: #aaee6d;
+}
+
+.File a[href$=avi]:hover:after, .File a[href$=avi]:focus:after {
+    background: #145afa;
+}
+.File a[href$=avi]:after {
+    content: "avi";
+    float: right;
+    background: #5f8ffc;
+}
+
+.File a[href$=gif]:hover:after, .File a[href$=gif]:focus:after {
+    background: #b414f0;
+}
+.File a[href$=gif]:after {
+    content: "gif";
+    float: right;
+    background: #cb5cf5;
+}
+
+.File a[href$=pptx]:hover:after, .File a[href$=pptx]:focus:after {
+    background: #f0dc0a;
+}
+.File a[href$=pptx]:after {
+    content: "pptx";
+    float: right;
+    background: #f8e94f;
+}
+
+.File a {
+    display: block;
+    padding: 1em;
+    font-family: sans-serif;
+    background: white;
+    text-decoration: none;
+    margin: .2em;
+    color: #333;
+}
+@media (min-width: 10em) {
+    .File a {
+        display: inline-block;
+    }
+}
+.File a:hover, .File a:focus {
+    background: #fafafa;
+    border-bottom-color: transparent;
+}
+.File a:after {
+    display: inline-block;
+    padding: .5em;
+    margin-left: 1em;
+    color: white;
+    text-transform: uppercase;
+    font-size: .6em;
+    padding: .5em;
+}
+
+.Files{
+    padding: 0;
+    list-style: none;
+}
